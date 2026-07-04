@@ -1,2 +1,0 @@
-# trunkistmobilecw.lua
-for mobile
